@@ -27,6 +27,8 @@ To start the project you need to install React, typescript and styled-components
 
 ```npm start```
 
+### Link to see the application
+https://twitter-chi.vercel.app/
 
 
 
