@@ -8,7 +8,7 @@
   
 ## :bookmark_tabs: Resume of application
 
-/*I made a responsive home Twitter to use TypeScript and React.*/
+Project developed with <a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">@Rocketseat</a> at UI Clones. This is a totally reponsive application based in "Twitter". I used ReactJS and TypeScript.  
 <h1 width="100%" align="center">
 <img width="170" src="https://imgur.com/dK3irxm.png" alt="Phone1">  
 <img width="170" src="https://imgur.com/nP5wMUO.png" alt="Phone2">  
@@ -17,17 +17,17 @@
 
 ## :mag_right: Getting Started
 
-To start the project you need to install React, typescript and styled-components.
+To start the project you need to install React, TypeScript and Styled-Components.
 
-### Installing node_modules
+### Installing
 
 ```npm install```
 
-#### Run server: 
+### Run server: 
 
 ```npm start```
 
-### Link to see the application
+### :newspaper: Link
 https://twitter-chi.vercel.app/
 
 
