@@ -1,10 +1,12 @@
 <h1 align="center">Twitter</h1>
-<h1 align="center"><img width="150px" src="https://i.imgur.com/cpErgj1.png"><h1>
-<h3 align="center">Technologies</h3>
-<h1 align="center">
-<img alt="TypeScript" width="50px" src="https://user-images.githubusercontent.com/38151364/89708934-a7dbce00-d951-11ea-8ff1-1b7991267c05.png" />
-<img alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</h1>
+<h1 align="center"><img width="130" src="https://i.imgur.com/cpErgj1.png"><h1>
+
+## :bookmark_tabs: Technologies
+<div align="left">
+<img alt="React" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="TypeScript" width="50" src="https://user-images.githubusercontent.com/38151364/89708934-a7dbce00-d951-11ea-8ff1-1b7991267c05.png" />
+</div>
+
   
 ## :bookmark_tabs: Resume of application
 
