@@ -1,5 +1,5 @@
 <h1 align="center">Twitter</h1>
-<h1 align="center"><img width="130" src="https://i.imgur.com/cpErgj1.png"><h1>
+<h1 align="center"><img width="130" src="https://i.imgur.com/cpErgj1.png"></h1>
 
 ## :bookmark_tabs: Technologies
 <div align="left">
