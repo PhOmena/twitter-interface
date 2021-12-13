@@ -23,16 +23,16 @@ Rode ```npm start``` e acesse via **localhost:3000**.
 
 ### 📱 Mobile
 <p align="center">
-<img width="170" src="./assets/mobile1.PNG" alt="Phone1">  
-<img width="170" src="./assets//mobile2.PNG" alt="Phone2">  
+<img width="200" src="./assets/mobile1.PNG" alt="Phone1">  
+<img width="200" src="./assets//mobile2.PNG" alt="Phone2">  
 </p>
 
 ---
   
 ### 💻 Desktop
 <p align="center">
-<img width="170" src="./assets/desk1.PNG" alt="Desktop1">  
-<img width="170" src="./assets/desk2.PNG" alt="Desktop2">  
+<img width="600" src="./assets/desk1.PNG" alt="Desktop1">  
+<img width="600" src="./assets/desk2.PNG" alt="Desktop2">  
 </p>
 
 ---  
