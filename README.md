@@ -13,11 +13,11 @@
   
 ## Para rodar a aplicação
 
-> OBS: Deve-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
-
 Execute ```npm install``` no terminal da sua IDE.
 
 Rode ```npm start``` e acesse via **localhost:3000**.
+
+> Obs: Deve-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos acima
 
 ---
 
