@@ -40,6 +40,8 @@ Rode ```npm start``` e acesse via **localhost:3000**.
 #### 🔗 Visualização completa:
 https://twitter-chi.vercel.app/
 
+---
+
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/PhOmena" target="_blank">PhOmena</a> </h4>
 
 
